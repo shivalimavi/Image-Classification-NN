@@ -12,6 +12,7 @@ This project uses Python and several machine learning libraries to create and tr
 
 ## Dataset 
 Link - https://www.cs.toronto.edu/~kriz/cifar.html
+
 The CIFAR-10 dataset is used in this project. It consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The dataset is divided into 50,000 training images and 10,000 testing images.
 
 ## Model Architecture and Training
